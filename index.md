@@ -1,5 +1,5 @@
--------------------------------------------
-# Glitch'd
+----------------------------------------
+# ./ Glitch'd
 
 Glitch'd is **the** discord-based hacking simulator, developed by Shivster.
 
