@@ -1,9 +1,9 @@
-@import "{{ site.theme }}";
+---
+---
 
-footer {
+@import "{{ site.theme }}";
   display: none !important;
 }
-
 .btn {
   display: none !important;
 }
