@@ -19,13 +19,19 @@ Once you have loaded, you'll see a number of different menus.
 
 There are five main upgrade stats in the game.
 
-**Firewall**
+**Antivirus**
 
-Firewall is your main line of defense. Your FW protects you from other player's who are trying to hack you.
+Antivirus is your main line of defense. Your AV protects you from other player's who are trying to hack you.
 
-If your FW is high enough, you will block their attack.
+If your AV is high enough, you will block their attack.
 
-Firewall can also help you to identify an attacker's IP, and also prevent other player's from seeing your data.
+Antivirus can also help you to identify an attacker's IP, and also prevent other player's from seeing your data.
+
+**Rootkit**
+
+You use your rootkit to attack other players and steal their money.
+
+If your RK is higher than your target's AV, you will get 40% of their money.
 
 **Scan**
 
