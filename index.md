@@ -1,20 +1,20 @@
-## Glitch'd
+# Glitch'd
 
 Glitch'd is **the** discord-based hacking simulator, developed by Shivster.
 
 
 
-### Tutorial
+## Tutorial
 
 Here is a quick guide on how to jump start your discord-based hacking career.
 
-# How to play
+### How to play
 
 To load the game, use sb/play
 
 Once you have loaded, you'll see a number of different menus.
 
-# Upgrades 
+### Upgrades 
 
 There are five main upgrade stats in the game.
 
@@ -39,7 +39,7 @@ IP Spoof will allow you to stay hidden when hacking a target. It's very importan
 Spam will generate money for you every 30 minutes. The amount you get depends on the level of your spam.
 
 
-# Network
+### Network
 
 The network is where you can find and hack other players.
 
@@ -49,7 +49,7 @@ When you hack a player, the success of your bruteforce attack is determined by y
 
 If the attack goes through and you transfer their money, a log will be made for both players. If your IPSP is higher than the other player's FW, you will be shown as UNKNOWN and your IP will be hidden.
 
-# Cluster
+### Cluster
 
 A cluster is a group that player's can join to grow together and compete.
 
@@ -68,7 +68,7 @@ You can also kick a player by using `/cluster kick`
 
 In the cluster menu, you'll see the member list, your cluster score and the rush score. The cluster score is all your member's player score added together.
 
-# Logs
+### Logs
 
 When you click on the button, you'll see the last ten transactions in your bank.
 
@@ -76,7 +76,7 @@ You'll see who hacked you, and who you hacked.
 
 UNKNOWN players were able to spoof their IP and go undetected by your firewall.
 
-# Tournaments
+### Tournaments
 
 There are currently two different tournaments.
 
@@ -84,7 +84,7 @@ The first is a money tournament, which is a PvP battle to see who can hack the m
 
 The second is a cluster rush tournament. The cluster with the most upgrades completed in a day wins.
 
-# Upgrade Menu
+### Upgrade Menu
 
 The upgrade system is a little complicated for a beginner. First go to the :upgrades: menu and choose the stat. Another bot will then DM you and you can see the progress of your upgrades.
 
