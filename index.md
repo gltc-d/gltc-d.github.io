@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+## Glitch'd
 
-You can use the [editor on GitHub](https://github.com/gltc-d/gltc-d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Glitch'd is **the** discord-based hacking simulator, developed by Shivster.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tutorial
 
-```markdown
-Syntax highlighted code block
+Here is a quick guide on how to jump start your discord-based hacking career.
 
-# Header 1
-## Header 2
-### Header 3
+# How to play
 
-- Bulleted
-- List
+To load the game, use sb/play
 
-1. Numbered
-2. List
+Once you have loaded, you'll see a number of different menus.
 
-**Bold** and _Italic_ and `Code` text
+# Upgrades 
 
-[Link](url) and ![Image](src)
-```
+There are five main upgrade stats in the game.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Firewall**
 
-### Jekyll Themes
+Firewall is your main line of defense. Your FW protects you from other player's who are trying to hack you.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gltc-d/gltc-d/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If your FW is high enough, you will block their attack.
 
-### Support or Contact
+Firewall can also help you to identify an attacker's IP, and also prevent other player's from seeing your data.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Scan**
+
+Scan will help you to see other player's data. It will also let you locate a target's port so that you can bruteforce and transfer their money.
+
+**IP Spoof**
+
+IP Spoof will allow you to stay hidden when hacking a target. It's very important if you want to stay incognito.. 👀
+
+**Spam**
+
+Spam will generate money for you every 30 minutes. The amount you get depends on the level of your spam.
+
+
+# Network
+
+The network is where you can find and hack other players.
+
+When you go to the network, you'll see three players, their IPs, their firewall levels and their cluster names. You can only see this information if your scan is higher than your target's firewall.
+
+When you hack a player, the success of your bruteforce attack is determined by your BF and SCAN. If your BF and SCAN is higher than your target's FW, you'll successfully hack them.
+
+If the attack goes through and you transfer their money, a log will be made for both players. If your IPSP is higher than the other player's FW, you will be shown as UNKNOWN and your IP will be hidden.
+
+# Cluster
+
+A cluster is a group that player's can join to grow together and compete.
+
+To create a cluster, type `/cluster` and choose the create option. You can then choose the cluster name and the cluster tag.
+
+The cluster name will be used on leaderboards and will be shown in the terminal when you are scanned. The tag is what will be used for player's to search and request to join your cluster.
+
+There is currently only one cluster related tournament, the cluster rush tournament.
+
+
+To join a cluster, you need to be invited by a cluster leader.
+
+To invite a player, type `/cluster invite` followed by a username.
+
+You can also kick a player by using `/cluster kick`
+
+In the cluster menu, you'll see the member list, your cluster score and the rush score. The cluster score is all your member's player score added together.
+
+# Logs
+
+When you click on the button, you'll see the last ten transactions in your bank.
+
+You'll see who hacked you, and who you hacked.
+
+UNKNOWN players were able to spoof their IP and go undetected by your firewall.
+
+# Tournaments
+
+There are currently two different tournaments.
+
+The first is a money tournament, which is a PvP battle to see who can hack the most amount of money in 30 minutes. These happen once an hour, every hour.
+
+The second is a cluster rush tournament. The cluster with the most upgrades completed in a day wins.
+
+# Upgrade Menu
+
+The upgrade system is a little complicated for a beginner. First go to the :upgrades: menu and choose the stat. Another bot will then DM you and you can see the progress of your upgrades.
+
+These happen in the background and can be cancelled at any time.
+
+Those with memberships have increased upgrade and score points..!
+
+
+
+For more help, join the [discord server](https://dsc.gg/glitch'd).
+
