@@ -105,13 +105,23 @@ For more help, join the [discord server](https://dsc.gg/glitch'd).
 
 Thanks to all of you for playing, and a special thank you to the following:
 
-Angel - Helping to make sane decisions regarding the game and server.
-Fiz - Being the guy who tested almost every single feature until it worked.
-Seven - Helping with ratios and some back-end technicalities.
-Rev - Giving a lot of gameplay suggestions and inspiration for a lot of features in the game.
-Afferty - Pointed out mistakes in the most vulgar way :eyes: Also helped to support the game finanically.
-BossReaper - Paid to win a lot, only reason I was able to afford servers throughout BETA.
-Spike - Forced me to make the game "spike-friendly" so you wouldn't break it.
+**Angel**
+Helping to make sane decisions regarding the game and server.
 
+**Fiz**
+Being the guy who tested almost every single feature until it worked.
 
+**Seven**
+Helping with ratios and some back-end components.
 
+**Rev**
+Giving a lot of gameplay suggestions and inspiration for a lot of features in the game.
+
+**Afferty**
+Pointed out mistakes in the most vulgar way :eyes: Also helped to support the game finanically.
+
+**BossReaper**
+Paid to win a lot, only reason I was able to afford servers throughout BETA.
+
+**Spike**
+Forced me to make the game "spike-friendly" so you wouldn't break it.
