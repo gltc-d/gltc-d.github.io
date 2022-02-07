@@ -99,9 +99,11 @@ These happen in the background and can be cancelled at any time.
 
 Those with memberships have increased upgrade and score points..!
 
-
+### Support
 
 For more help, join the [discord server](https://dsc.gg/glitch'd).
+
+### Epic People
 
 Thanks to all of you for playing, and a special thank you to the following:
 
