@@ -128,6 +128,5 @@ Paid to win a lot, only reason I was able to afford servers throughout BETA.
 **Spike**
 Forced me to make the game "spike-friendly" so you wouldn't break it.
 
-<iframe id='kofiframe' src='https://ko-fi.com/shivster/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='shivster'></iframe>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D15I0BK)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shivster)
