@@ -127,3 +127,5 @@ Paid to win a lot, only reason I was able to afford servers throughout BETA.
 
 **Spike**
 Forced me to make the game "spike-friendly" so you wouldn't break it.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D15I0BK)
