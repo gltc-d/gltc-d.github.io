@@ -4,6 +4,7 @@
 Glitch'd is **the** discord-based hacking simulator, developed by Shivster.
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shivster)
 
 ## Tutorial
 
@@ -129,4 +130,3 @@ Paid to win a lot, only reason I was able to afford servers throughout BETA.
 Forced me to make the game "spike-friendly" so you wouldn't break it.
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shivster)
