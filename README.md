@@ -4,6 +4,7 @@
 Glitch'd is **the** discord-based hacking simulator, developed by Shivster.
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shivster)
 
 ## Tutorial
 
@@ -11,7 +12,7 @@ Here is a quick guide on how to jump start your discord-based hacking career.
 
 ### How to play
 
-To load the game, use sb/play
+To load the game, use /play when messaging Glitch'd.
 
 Once you have loaded, you'll see a number of different menus.
 
@@ -43,7 +44,7 @@ IP Spoof will allow you to stay hidden when hacking a target. It's very importan
 
 **Spam**
 
-Spam will generate money for you every 30 minutes. The amount you get depends on the level of your spam.
+Spam will generate money and 40 GlitchBits for you every 60 minutes. The amount you get depends on the level of your spam.
 
 
 ### Network
@@ -93,11 +94,13 @@ The second is a cluster rush tournament. The cluster with the most upgrades comp
 
 ### Upgrade Menu
 
-The upgrade system is a little complicated for a beginner. First go to the :upgrades: menu and choose the stat. Another bot will then DM you and you can see the progress of your upgrades.
+The upgrade system is a little complicated for a beginner. First go to the upgrade menu and choose the stat. 
+
+Once done, you will see a pop-up directly over your game session. This will show information such as you stat, the price and you will also be able to end the upgrade session.
 
 These happen in the background and can be cancelled at any time.
 
-Those with memberships have increased upgrade and score points..!
+Those with the GlitchPass have four upgrades every 10 seconds instead of three.
 
 ### Support
 
